@@ -1,0 +1,60 @@
+.fluid-container{
+    padding-top:10px;
+}
+.container{
+    border:1px solid black;
+    border-radius: 10px;;
+}
+h1{
+    text-align: center;
+    background-color: #FD5BA5;
+    color:white;
+    padding:15px;
+    border-radius: 10px 10px 0 0;
+}
+.boxbody{
+    text-align: right;
+    padding-right:20px;
+    background-color: #FD9AD0;
+}
+.boxbody .row{
+    padding-top:30px;
+}
+label{
+    padding-right:10px;
+    font-size: 18px;
+}
+.textBoxrows{
+    padding:20px;
+}
+.textBoxrows label{
+    color:white;
+}
+.btnDiv{
+    padding-bottom:50px;
+}
+input[type="button"]{
+    margin-right:170px;
+    border-color: white;
+    border-radius: 5px;
+    color:#FD5BA5;
+    padding:5px 10px; 
+    background-color: white;
+}
+input[type="text"]
+{
+    border-radius: 5px;
+}
+.result
+{
+    background-color: #FD5BA5;
+    align-items: center;
+    text-align: center;
+    color:white;
+    padding:30px;
+    border-radius: 0 0 10px 10px;
+}
+.result div{
+    padding-bottom: 10px;
+}
+
