@@ -52,9 +52,9 @@ input[type="text"]
     text-align: center;
     color:white;
     padding:30px;
-    border-radius: 0 0 10px 10px;
-}
-.bottmRow{
     padding-bottom: 10px;
+}
+.bottmRow{    
+    border-radius: 0 0 10px 10px;
 }
 
